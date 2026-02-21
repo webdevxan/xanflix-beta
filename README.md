@@ -1,9 +1,9 @@
-# CineGeek 2.0 Beta 🎬
+# XandFlix 2.0 Beta 🎬
 > **Containerized Movie & Series Streaming Platform**
 
 ![Status](https://img.shields.io/badge/Status-Beta-blue?style=for-the-badge) ![Docker](https://img.shields.io/badge/Deployment-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**CineGeek** is a premium, fully dockerized streaming application that offers a vast library of movies and series. Designed for consistency and ease of deployment, it runs exclusively within a containerized environment, eliminating the need for local Node.js setups.
+**XandFlix** is a premium, fully dockerized streaming application that offers a vast library of movies and series. Designed for consistency and ease of deployment, it runs exclusively within a containerized environment, eliminating the need for local Node.js setups.
 
 ---
 
@@ -73,6 +73,6 @@
 ---
 
 <div align="center">
-  <sub>Developed with ❤️ by Alan Cyril Sunny</sub><br>
+  <sub>Developed with ❤️ by FTG Xander</sub><br>
   <sub>If you find this project helpful, please consider ⭐ <a href="https://github.com/dragonpilee/cinegeek">starring the repository!</a></sub>
 </div>
